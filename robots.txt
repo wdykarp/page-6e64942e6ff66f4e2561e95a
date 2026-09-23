@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yinzhoujob.cn/sitemap.xml
